@@ -1,0 +1,17 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "weight_g": {
+            "sdtype": "numerical"
+        },
+        "length_cm": {
+            "sdtype": "numerical"
+        },
+        "width_cm": {
+            "sdtype": "numerical"
+        },
+        "thickness_cm": {
+            "sdtype": "numerical"
+        }
+    }
+}

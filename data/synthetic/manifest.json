@@ -1,0 +1,602 @@
+[
+  {
+    "model": "gaussian_copula",
+    "proportion": 0.25,
+    "replica": 0,
+    "seed": 42,
+    "n_generated": 41,
+    "n_valid": 37,
+    "pass_rate": 0.9024390243902439,
+    "path": "data/synthetic/synthetic_gaussian_copula_p025_r00.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 0.25,
+    "replica": 1,
+    "seed": 123,
+    "n_generated": 41,
+    "n_valid": 38,
+    "pass_rate": 0.926829268292683,
+    "path": "data/synthetic/synthetic_gaussian_copula_p025_r01.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 0.25,
+    "replica": 2,
+    "seed": 456,
+    "n_generated": 41,
+    "n_valid": 35,
+    "pass_rate": 0.8536585365853658,
+    "path": "data/synthetic/synthetic_gaussian_copula_p025_r02.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 0.25,
+    "replica": 3,
+    "seed": 789,
+    "n_generated": 41,
+    "n_valid": 37,
+    "pass_rate": 0.9024390243902439,
+    "path": "data/synthetic/synthetic_gaussian_copula_p025_r03.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 0.25,
+    "replica": 4,
+    "seed": 1024,
+    "n_generated": 41,
+    "n_valid": 35,
+    "pass_rate": 0.8536585365853658,
+    "path": "data/synthetic/synthetic_gaussian_copula_p025_r04.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 0.5,
+    "replica": 0,
+    "seed": 42,
+    "n_generated": 83,
+    "n_valid": 77,
+    "pass_rate": 0.927710843373494,
+    "path": "data/synthetic/synthetic_gaussian_copula_p050_r00.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 0.5,
+    "replica": 1,
+    "seed": 123,
+    "n_generated": 83,
+    "n_valid": 75,
+    "pass_rate": 0.9036144578313253,
+    "path": "data/synthetic/synthetic_gaussian_copula_p050_r01.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 0.5,
+    "replica": 2,
+    "seed": 456,
+    "n_generated": 83,
+    "n_valid": 71,
+    "pass_rate": 0.8554216867469879,
+    "path": "data/synthetic/synthetic_gaussian_copula_p050_r02.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 0.5,
+    "replica": 3,
+    "seed": 789,
+    "n_generated": 83,
+    "n_valid": 79,
+    "pass_rate": 0.9518072289156626,
+    "path": "data/synthetic/synthetic_gaussian_copula_p050_r03.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 0.5,
+    "replica": 4,
+    "seed": 1024,
+    "n_generated": 83,
+    "n_valid": 76,
+    "pass_rate": 0.9156626506024096,
+    "path": "data/synthetic/synthetic_gaussian_copula_p050_r04.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 1.0,
+    "replica": 0,
+    "seed": 42,
+    "n_generated": 167,
+    "n_valid": 150,
+    "pass_rate": 0.8982035928143712,
+    "path": "data/synthetic/synthetic_gaussian_copula_p100_r00.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 1.0,
+    "replica": 1,
+    "seed": 123,
+    "n_generated": 167,
+    "n_valid": 149,
+    "pass_rate": 0.8922155688622755,
+    "path": "data/synthetic/synthetic_gaussian_copula_p100_r01.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 1.0,
+    "replica": 2,
+    "seed": 456,
+    "n_generated": 167,
+    "n_valid": 156,
+    "pass_rate": 0.9341317365269461,
+    "path": "data/synthetic/synthetic_gaussian_copula_p100_r02.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 1.0,
+    "replica": 3,
+    "seed": 789,
+    "n_generated": 167,
+    "n_valid": 151,
+    "pass_rate": 0.9041916167664671,
+    "path": "data/synthetic/synthetic_gaussian_copula_p100_r03.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 1.0,
+    "replica": 4,
+    "seed": 1024,
+    "n_generated": 167,
+    "n_valid": 158,
+    "pass_rate": 0.9461077844311377,
+    "path": "data/synthetic/synthetic_gaussian_copula_p100_r04.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 2.0,
+    "replica": 0,
+    "seed": 42,
+    "n_generated": 334,
+    "n_valid": 310,
+    "pass_rate": 0.9281437125748503,
+    "path": "data/synthetic/synthetic_gaussian_copula_p200_r00.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 2.0,
+    "replica": 1,
+    "seed": 123,
+    "n_generated": 334,
+    "n_valid": 303,
+    "pass_rate": 0.907185628742515,
+    "path": "data/synthetic/synthetic_gaussian_copula_p200_r01.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 2.0,
+    "replica": 2,
+    "seed": 456,
+    "n_generated": 334,
+    "n_valid": 309,
+    "pass_rate": 0.9251497005988024,
+    "path": "data/synthetic/synthetic_gaussian_copula_p200_r02.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 2.0,
+    "replica": 3,
+    "seed": 789,
+    "n_generated": 334,
+    "n_valid": 310,
+    "pass_rate": 0.9281437125748503,
+    "path": "data/synthetic/synthetic_gaussian_copula_p200_r03.parquet"
+  },
+  {
+    "model": "gaussian_copula",
+    "proportion": 2.0,
+    "replica": 4,
+    "seed": 1024,
+    "n_generated": 334,
+    "n_valid": 314,
+    "pass_rate": 0.9401197604790419,
+    "path": "data/synthetic/synthetic_gaussian_copula_p200_r04.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 0.25,
+    "replica": 0,
+    "seed": 42,
+    "n_generated": 41,
+    "n_valid": 13,
+    "pass_rate": 0.3170731707317073,
+    "path": "data/synthetic/synthetic_ctgan_p025_r00.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 0.25,
+    "replica": 1,
+    "seed": 123,
+    "n_generated": 41,
+    "n_valid": 13,
+    "pass_rate": 0.3170731707317073,
+    "path": "data/synthetic/synthetic_ctgan_p025_r01.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 0.25,
+    "replica": 2,
+    "seed": 456,
+    "n_generated": 41,
+    "n_valid": 21,
+    "pass_rate": 0.5121951219512195,
+    "path": "data/synthetic/synthetic_ctgan_p025_r02.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 0.25,
+    "replica": 3,
+    "seed": 789,
+    "n_generated": 41,
+    "n_valid": 14,
+    "pass_rate": 0.34146341463414637,
+    "path": "data/synthetic/synthetic_ctgan_p025_r03.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 0.25,
+    "replica": 4,
+    "seed": 1024,
+    "n_generated": 41,
+    "n_valid": 15,
+    "pass_rate": 0.36585365853658536,
+    "path": "data/synthetic/synthetic_ctgan_p025_r04.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 0.5,
+    "replica": 0,
+    "seed": 42,
+    "n_generated": 83,
+    "n_valid": 29,
+    "pass_rate": 0.3493975903614458,
+    "path": "data/synthetic/synthetic_ctgan_p050_r00.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 0.5,
+    "replica": 1,
+    "seed": 123,
+    "n_generated": 83,
+    "n_valid": 24,
+    "pass_rate": 0.2891566265060241,
+    "path": "data/synthetic/synthetic_ctgan_p050_r01.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 0.5,
+    "replica": 2,
+    "seed": 456,
+    "n_generated": 83,
+    "n_valid": 34,
+    "pass_rate": 0.40963855421686746,
+    "path": "data/synthetic/synthetic_ctgan_p050_r02.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 0.5,
+    "replica": 3,
+    "seed": 789,
+    "n_generated": 83,
+    "n_valid": 41,
+    "pass_rate": 0.4939759036144578,
+    "path": "data/synthetic/synthetic_ctgan_p050_r03.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 0.5,
+    "replica": 4,
+    "seed": 1024,
+    "n_generated": 83,
+    "n_valid": 22,
+    "pass_rate": 0.26506024096385544,
+    "path": "data/synthetic/synthetic_ctgan_p050_r04.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 1.0,
+    "replica": 0,
+    "seed": 42,
+    "n_generated": 167,
+    "n_valid": 66,
+    "pass_rate": 0.39520958083832336,
+    "path": "data/synthetic/synthetic_ctgan_p100_r00.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 1.0,
+    "replica": 1,
+    "seed": 123,
+    "n_generated": 167,
+    "n_valid": 77,
+    "pass_rate": 0.46107784431137727,
+    "path": "data/synthetic/synthetic_ctgan_p100_r01.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 1.0,
+    "replica": 2,
+    "seed": 456,
+    "n_generated": 167,
+    "n_valid": 71,
+    "pass_rate": 0.4251497005988024,
+    "path": "data/synthetic/synthetic_ctgan_p100_r02.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 1.0,
+    "replica": 3,
+    "seed": 789,
+    "n_generated": 167,
+    "n_valid": 70,
+    "pass_rate": 0.41916167664670656,
+    "path": "data/synthetic/synthetic_ctgan_p100_r03.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 1.0,
+    "replica": 4,
+    "seed": 1024,
+    "n_generated": 167,
+    "n_valid": 71,
+    "pass_rate": 0.4251497005988024,
+    "path": "data/synthetic/synthetic_ctgan_p100_r04.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 2.0,
+    "replica": 0,
+    "seed": 42,
+    "n_generated": 334,
+    "n_valid": 139,
+    "pass_rate": 0.4161676646706587,
+    "path": "data/synthetic/synthetic_ctgan_p200_r00.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 2.0,
+    "replica": 1,
+    "seed": 123,
+    "n_generated": 334,
+    "n_valid": 130,
+    "pass_rate": 0.38922155688622756,
+    "path": "data/synthetic/synthetic_ctgan_p200_r01.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 2.0,
+    "replica": 2,
+    "seed": 456,
+    "n_generated": 334,
+    "n_valid": 135,
+    "pass_rate": 0.4041916167664671,
+    "path": "data/synthetic/synthetic_ctgan_p200_r02.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 2.0,
+    "replica": 3,
+    "seed": 789,
+    "n_generated": 334,
+    "n_valid": 137,
+    "pass_rate": 0.4101796407185629,
+    "path": "data/synthetic/synthetic_ctgan_p200_r03.parquet"
+  },
+  {
+    "model": "ctgan",
+    "proportion": 2.0,
+    "replica": 4,
+    "seed": 1024,
+    "n_generated": 334,
+    "n_valid": 137,
+    "pass_rate": 0.4101796407185629,
+    "path": "data/synthetic/synthetic_ctgan_p200_r04.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 0.25,
+    "replica": 0,
+    "seed": 42,
+    "n_generated": 41,
+    "n_valid": 40,
+    "pass_rate": 0.975609756097561,
+    "path": "data/synthetic/synthetic_tvae_p025_r00.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 0.25,
+    "replica": 1,
+    "seed": 123,
+    "n_generated": 41,
+    "n_valid": 40,
+    "pass_rate": 0.975609756097561,
+    "path": "data/synthetic/synthetic_tvae_p025_r01.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 0.25,
+    "replica": 2,
+    "seed": 456,
+    "n_generated": 41,
+    "n_valid": 41,
+    "pass_rate": 1.0,
+    "path": "data/synthetic/synthetic_tvae_p025_r02.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 0.25,
+    "replica": 3,
+    "seed": 789,
+    "n_generated": 41,
+    "n_valid": 40,
+    "pass_rate": 0.975609756097561,
+    "path": "data/synthetic/synthetic_tvae_p025_r03.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 0.25,
+    "replica": 4,
+    "seed": 1024,
+    "n_generated": 41,
+    "n_valid": 39,
+    "pass_rate": 0.9512195121951219,
+    "path": "data/synthetic/synthetic_tvae_p025_r04.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 0.5,
+    "replica": 0,
+    "seed": 42,
+    "n_generated": 83,
+    "n_valid": 82,
+    "pass_rate": 0.9879518072289156,
+    "path": "data/synthetic/synthetic_tvae_p050_r00.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 0.5,
+    "replica": 1,
+    "seed": 123,
+    "n_generated": 83,
+    "n_valid": 83,
+    "pass_rate": 1.0,
+    "path": "data/synthetic/synthetic_tvae_p050_r01.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 0.5,
+    "replica": 2,
+    "seed": 456,
+    "n_generated": 83,
+    "n_valid": 83,
+    "pass_rate": 1.0,
+    "path": "data/synthetic/synthetic_tvae_p050_r02.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 0.5,
+    "replica": 3,
+    "seed": 789,
+    "n_generated": 83,
+    "n_valid": 81,
+    "pass_rate": 0.9759036144578314,
+    "path": "data/synthetic/synthetic_tvae_p050_r03.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 0.5,
+    "replica": 4,
+    "seed": 1024,
+    "n_generated": 83,
+    "n_valid": 81,
+    "pass_rate": 0.9759036144578314,
+    "path": "data/synthetic/synthetic_tvae_p050_r04.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 1.0,
+    "replica": 0,
+    "seed": 42,
+    "n_generated": 167,
+    "n_valid": 162,
+    "pass_rate": 0.9700598802395209,
+    "path": "data/synthetic/synthetic_tvae_p100_r00.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 1.0,
+    "replica": 1,
+    "seed": 123,
+    "n_generated": 167,
+    "n_valid": 165,
+    "pass_rate": 0.9880239520958084,
+    "path": "data/synthetic/synthetic_tvae_p100_r01.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 1.0,
+    "replica": 2,
+    "seed": 456,
+    "n_generated": 167,
+    "n_valid": 165,
+    "pass_rate": 0.9880239520958084,
+    "path": "data/synthetic/synthetic_tvae_p100_r02.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 1.0,
+    "replica": 3,
+    "seed": 789,
+    "n_generated": 167,
+    "n_valid": 165,
+    "pass_rate": 0.9880239520958084,
+    "path": "data/synthetic/synthetic_tvae_p100_r03.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 1.0,
+    "replica": 4,
+    "seed": 1024,
+    "n_generated": 167,
+    "n_valid": 165,
+    "pass_rate": 0.9880239520958084,
+    "path": "data/synthetic/synthetic_tvae_p100_r04.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 2.0,
+    "replica": 0,
+    "seed": 42,
+    "n_generated": 334,
+    "n_valid": 328,
+    "pass_rate": 0.9820359281437125,
+    "path": "data/synthetic/synthetic_tvae_p200_r00.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 2.0,
+    "replica": 1,
+    "seed": 123,
+    "n_generated": 334,
+    "n_valid": 327,
+    "pass_rate": 0.9790419161676647,
+    "path": "data/synthetic/synthetic_tvae_p200_r01.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 2.0,
+    "replica": 2,
+    "seed": 456,
+    "n_generated": 334,
+    "n_valid": 332,
+    "pass_rate": 0.9940119760479041,
+    "path": "data/synthetic/synthetic_tvae_p200_r02.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 2.0,
+    "replica": 3,
+    "seed": 789,
+    "n_generated": 334,
+    "n_valid": 330,
+    "pass_rate": 0.9880239520958084,
+    "path": "data/synthetic/synthetic_tvae_p200_r03.parquet"
+  },
+  {
+    "model": "tvae",
+    "proportion": 2.0,
+    "replica": 4,
+    "seed": 1024,
+    "n_generated": 334,
+    "n_valid": 331,
+    "pass_rate": 0.9910179640718563,
+    "path": "data/synthetic/synthetic_tvae_p200_r04.parquet"
+  }
+]
